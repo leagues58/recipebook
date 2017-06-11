@@ -1,7 +1,7 @@
 # Project
 
+This project is a recipe book/shopping list app. <br><br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
-This project is a recipe book/shopping list app.
 
 ## Development server
 
